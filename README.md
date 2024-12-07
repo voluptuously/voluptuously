@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fab88aaf-d72f-40de-b2b0-69fd5a354093">
+<img src="https://files.catbox.moe/vhkk2i.png" width="500" height="500">
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Beth+Ellen&pause=1000&width=435&lines=but+when+harmonia+shines%2C+atlas+beholds+her.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&letterSpacing=2px&pause=1000&color=FFFFFF&center=true&width=435&lines=time+is+not+on+my+side%2C+so+I+slide.">
 <p align="center">
-<br> $\textit{{\color{#2a7dd1} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
+<br> $\textit{{\color{#ffffff} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
 </p>
