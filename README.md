@@ -12,4 +12,7 @@
 <p align="center">
 <br> $\textit{{\color{#ffffff} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
 </p>
-
+<p align="center">
+<img src="https://files.catbox.moe/cmirkb.gif" width="1000">
+  
+![](https://komarev.com/ghpvc/?username=tarynights)
