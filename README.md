@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://files.catbox.moe/ron95q.png" width="500">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&letterSpacing=2px&pause=1000&color=FFFFFF&center=true&width=435&lines=time+is+not+on+my+side%2C+so+I+slide.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Newsreader&weight=700&pause=1000&color=7D0000&width=435&lines=Victim+and+culprit+entwine+in+one+entity.">
 <p align="center">
 <br> $\textit{{\color{#610000} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
 </p>
