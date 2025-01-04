@@ -10,7 +10,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&letterSpacing=2px&pause=1000&color=FFFFFF&center=true&width=435&lines=time+is+not+on+my+side%2C+so+I+slide.">
 <p align="center">
-<br> $\textit{{\color{#450000} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
+<br> $\textit{{\color{#610000} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
 </p>
 <p align="center">
 <br> $\textit{{\color{#000000} best viewed @ dark mode}}$ 
