@@ -13,9 +13,6 @@
 <br> $\textit{{\color{#610000} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
 </p>
 <p align="center">
-<br> $\textit{{\color{#000000} best viewed @ dark mode}}$ 
-</p>
-<p align="center">
 <img src="https://files.catbox.moe/3l8gir.png" width="1000">
   
 ![](https://komarev.com/ghpvc/?username=tarynights)
