@@ -10,7 +10,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Newsreader&weight=700&pause=1000&color=7D0000&center=true&width=435&lines=Victim+and+culprit+entwine+in+one+entity.">
 <p align="center">
-<br> $\textit{{\color{#610000} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
+<br> $\textit{{\color{#780000} windd　or　taryn　　she　/　they　　✦　　utc+8}}$ 
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/3l8gir.png" width="1000">
