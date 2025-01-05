@@ -3,7 +3,7 @@
 <img src="https://files.catbox.moe/3l8gir.png" width="700">
 
 <p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiutjziv04qnx0h1h32h7uxbt&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=f8d2d3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile")
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiutjziv04qnx0h1h32h7uxbt&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=700000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile")
 
 <p align="center">
 <img src="https://files.catbox.moe/233dea.png" width="700">
