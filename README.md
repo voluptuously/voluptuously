@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://files.catbox.moe/3l8gir.png" width="1000">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qiutjziv04qnx0h1h32h7uxbt&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qiutjziv04qnx0h1h32h7uxbt&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=f8d2d3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
 <img src="https://files.catbox.moe/3l8gir.png" width="1000">
@@ -15,4 +15,4 @@
 <p align="center">
 <img src="https://files.catbox.moe/3l8gir.png" width="1000">
   
-![](https://komarev.com/ghpvc/?username=tarynights)
+![](https://komarev.com/ghpvc/?username=tarynights&color=780000)
