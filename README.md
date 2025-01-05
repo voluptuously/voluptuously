@@ -19,5 +19,5 @@
 <p align="center">
 <a href="https://trideclectic.carrd.co"><img src="https://img.shields.io/badge/carrd_𝝑𝝔-780000"></a> <a href="https://stellated.carrd.co"><img src="https://img.shields.io/badge/c0mms_𝝑𝝔-780000"></a> <a href="https://bundlrs.cc/windd"><img src="https://img.shields.io/badge/bundlrs_𝝑𝝔-780000"></a> 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tarynights&label= 𝝑𝝔 &color=780000">
+<img src="https://komarev.com/ghpvc/?username=tarynights&label= 𝝑𝝔 &color=780000&style=plastic">
 </p>
