@@ -14,5 +14,6 @@
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/3l8gir.png" width="1000">
-  
-![](https://komarev.com/ghpvc/?username=tarynights&color=780000)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tarynights&label= 𝝑𝝔 &color=780000">
+</p>
