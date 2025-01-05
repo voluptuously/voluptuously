@@ -14,7 +14,7 @@
 <br>
   ${\textsf{\color{#A30000}─────────────────────────────────}}$
 <p align="center">
-<br> $\textit{{\color{#780000}  ⏝꒷︶ ͡𑁬     windd　or　taryn　　she　/　they　　✦　　utc+8    ໒ ͡ ︶꒷⏝}}$ 
+<br> $\textit{{\color{#780000}  ⏝꒷︶ ͡𑁬     𝐰𝐢𝐧𝐝𝐝　𝐨𝐫　𝐭𝐚𝐫𝐲𝐧　　𝐬𝐡𝐞　/　𝐭𝐡𝐞𝐲　　✦　　𝐮𝐭𝐜+𝟖    ໒ ͡ ︶꒷⏝}}$ 
 </p>
 　
 <p align="center">
