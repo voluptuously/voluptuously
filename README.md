@@ -1,28 +1,27 @@
 
 <p align="center">
-<img src="https://files.catbox.moe/3l8gir.png" width="700">
-
-<p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qiutjziv04qnx0h1h32h7uxbt&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=700000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile")
-
-<p align="center">
-<img src="https://files.catbox.moe/233dea.png" width="700">
-<p align="center">
-<img src="https://files.catbox.moe/ron95q.png" width="500">
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=700&duration=4000&pause=&color=7D0000&center=true&width=435&lines=But+when+Harmonia+shines%2C;Atlas+beholds+her;So+bathed+in+serenity%2C;beauty%2C;in+synchronicity%2C;blissfully.">
-<br>
-  ${\textsf{\color{#A30000}─────────────────────────────────}}$
-<p align="center">
-<br> $\textit{{\color{#780000}  ⏝꒷︶ ͡𑁬     𝐰𝐢𝐧𝐝𝐝　𝐨𝐫　𝐭𝐚𝐫𝐲𝐧　　𝐬𝐡𝐞　/　𝐭𝐡𝐞𝐲　　✦　　𝐮𝐭𝐜+𝟖    ໒ ͡ ︶꒷⏝}}$ 
+<img src="https://files.catbox.moe/mc3cdt.png">
 </p>
-　
 <p align="center">
-<a href="https://trideclectic.carrd.co"><img src="https://img.shields.io/badge/carrd_𝝑𝝔-780000"></a> <a href="https://stellated.carrd.co"><img src="https://img.shields.io/badge/c0mms_𝝑𝝔-780000"></a> <a href="https://discord.com/users/609529624229183497"><img src="https://img.shields.io/badge/discord_𝝑𝝔-780000"></a>
-
+<img src="https://files.catbox.moe/nar62w.png">
+</p>
 <p align="center">
-<img src="https://files.catbox.moe/7u1mo0.png" width="700">
- 
+<img src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=700&duration=2000&color=885930&center=true&width=530&lines=You're+blind.;I'm+not+blind.;Then+what%3F;I+just+can't+see.;Do+you+ever+go+out%3F;No.+Though+not+a+day+of+my+life+goes+by%2C+;not+one+day+that+I+haven't+wished+I+could+see+this+world%2C;even+%26+cruel+though+it+is.;I...I'm+sorry.;Why%3F+There+are+much+worse+things%2C+Hermes.;We+can+get+used+to+anything.;%E3%80%80">
+</p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tarynights&label= 𝝑𝝔 &color=780000&style=plastic">
+<br>
+  ${\textsf{\color{#b8a883}─────────────────────────────────}}$
+</p>
+<p align="center">
+<br> $\textit{{\color{#885930}  ⏝꒷︶ ͡𑁬     𝐰𝐢𝐧𝐝𝐝　𝐨𝐫　𝐭𝐚𝐫𝐲𝐧　　𝐬𝐡𝐞　/　𝐭𝐡𝐞𝐲　　✦　　𝐮𝐭𝐜+𝟖    ໒ ͡ ︶꒷⏝}}$ 
+</p>
+<p align="center">
+<br>
+  ${\textsf{\color{#b8a883}─────────────────────────────────}}$
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tarynights&label= 𝝑𝝔 &color=c7e8d4&style=plastic">
+</p>
+<p align="center">
+<img src="https://files.catbox.moe/ky89hz.png">
 </p>
